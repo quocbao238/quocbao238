@@ -3,6 +3,7 @@
 Here is what i am working for
 
 - 🔭 I’m currently working on Flutter
+- 🔭 Former Content Creator at Makerlab.vn
 - 🌱 I’m currently learning Flutter & IoT
 - 📫 How to reach me: baobondev@gmail.com
 - ⚡ Fun fact: fan MixiGaming
