@@ -1,4 +1,4 @@
-### Hi there. I'am Quoc Bao 👋
+### Hi there. I'm Quoc Bao 👋
 
 Here is what i am working for
 
