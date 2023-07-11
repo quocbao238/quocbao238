@@ -29,7 +29,7 @@ Experience in Dart programming language and cross-platform mobile application de
 
 ### GitHub Profile Trophy
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=quocbao238&theme=algolia&no-frame=false&no-bg=false&margin-w=8&column=-1"/></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=quocbao238-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### GitHub Stats
 
