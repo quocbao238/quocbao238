@@ -14,24 +14,25 @@ My passion for software development is evident in my commitment to learning and 
 - 🌍 I'm based in Ho Chi Minh
 - 🖥️ See my portfolio at [baobui.github.io](http://baobui.github.io/)
 - ✉️ You can contact me at [buiquocbaodt@gmail.com](mailto:buiquocbaodt@gmail.com)
-- 🚀 I'm currently working on Flutter
+- 🌱 I'm currently expanding my knowledge in Flutter and building cross-platform mobile applications.
+- 🔭 I'm constantly working on personal projects to improve my skills and showcase my creativity using Flutter.
 - 🤝 I'm open to collaborating on any open source project
-- 
 </a>
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/quocbao238"target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="64" height="64" /></a></p>
-
-### GitHub Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=quocbao238&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### GitHub Stats
 
-<div >
-  <img src="https://github-readme-stats.vercel.app/api?username=quocbao238&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" width="50%" alt="stats graph"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=quocbao238&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="50%" alt="streak graph"/>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=quocbao238&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="Stats Graph" style="margin-right: 40px">
+  <img src="https://streak-stats.demolab.com?user=quocbao238&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="Streak Graph" style="margin-left: 40px">
 </div>
+
+### GitHub Profile Trophy
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=quocbao238&theme=onedark&row=1" alt="trophy" />
+  </a>
+</p>
+
+
+
