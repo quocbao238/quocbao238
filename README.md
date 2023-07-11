@@ -1,16 +1,21 @@
 ### Hi there. I'm Quoc Bao Bui ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
+## Flutter Developer
+
+Experience in Dart programming language and cross-platform mobile application development to create innovative solutions for clients. My passion for software development is evident in my commitment to learning and staying up-to-date with the latest industry trends and technologies.
+
+<a target="_blank" align="center">
+  <img align="right" width="42%" alt="GIF"  src="image/coding.gif">
+</a>
+
 - 🌍 I'm based in Ho Chi Minh
 - 🖥️ See my portfolio at [baobui.github.io](http://baobui.github.io/)
 - ✉️ You can contact me at [buiquocbaodt@gmail.com](mailto:buiquocbaodt@gmail.com)
 - 🚀 I'm currently working on Flutter
 - 🤝 I'm open to collaborating on any open source project
 
-### Skills
-<a target="_blank" align="center">
-  <img align="right" width="42%" alt="GIF" src="image/coding.gif">
-</a>
 
+### Skills
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="36" height="36" alt="GitHub" title="GitHub" /></a>
@@ -28,10 +33,10 @@
 
 ### GitHub Stats
 
-<div align="right">
-  <a href="">
-    <img alt="Error using wakatime API, reload the page to try again" align="left" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=quocbao238&theme=dracula&Cache-Control=no-cache"/>
-  </a>
+<div >
   <img src="https://github-readme-stats.vercel.app/api?username=quocbao238&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" width="50%" alt="stats graph"/>
+  <br/>
   <img src="https://streak-stats.demolab.com?user=quocbao238&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="50%" alt="streak graph"/>
+
 </div>
+
