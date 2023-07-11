@@ -8,7 +8,7 @@
 
 ### Skills
 <a target="_blank" align="center">
-  <img align="right" width="42%" alt="GIF" src="img/coding.gif">
+  <img align="right" width="42%" alt="GIF" src="image/coding.gif">
 </a>
 
 <p align="left">
