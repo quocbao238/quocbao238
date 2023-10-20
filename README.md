@@ -9,10 +9,8 @@ I have extensive experience in Dart programming language and cross-platform mobi
 My passion for software development is evident in my commitment to learning and staying up-to-date with the latest industry trends and technologies. I believe in writing clean, efficient, and maintainable code to deliver high-quality applications.
 
 - 🌍 I'm based in Ho Chi Minh
-- 🖥️ See my portfolio at [baobui.github.io](http://baobui.github.io/)
-- ✉️ You can contact me at [buiquocbaodt@gmail.com](mailto:buiquocbaodt@gmail.com)
 - 🌱 I'm currently expanding my knowledge in Flutter and building cross-platform mobile applications.
 - 🔭 I'm constantly working on personal projects to improve my skills and showcase my creativity using Flutter.
 - 🤝 I'm open to collaborating on any open source project
-</a>
+- ✉️ You can contact me [buiquocbaodt@gmail.com](mailto:buiquocbaodt@gmail.com)
 
