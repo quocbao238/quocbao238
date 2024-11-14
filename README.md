@@ -1,16 +1,20 @@
 ### Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-I'm Quoc Bao, a passionate software developer with a focus on Flutter app development. Welcome to my GitHub profile!
+Welcome to my GitHub profile!
 
 
 ### About Me
-I have extensive experience in Dart programming language and cross-platform mobile application development. I specialize in creating innovative solutions for clients by leveraging my expertise in Flutter.
+I'm Bảo, a dedicated software developer with expertise in both mobile and web development. I specialize in Flutter for cross-platform mobile applications, using Dart to create responsive, native-like experiences on iOS and Android. My knowledge extends across architecture patterns like MVC, MVP, and MVVM, ensuring scalable and maintainable applications. I'm also skilled in state management solutions such as Riverpod, BLoC, Provider, and GetX, which I use to create dynamic and efficient Flutter applications. I am experienced in leading projects from development through deployment on platforms like the App Store and Play Store.
 
-My passion for software development is evident in my commitment to learning and staying up-to-date with the latest industry trends and technologies. I believe in writing clean, efficient, and maintainable code to deliver high-quality applications.
+In web development, I am skilled in Next.js, React.js, and Tailwind CSS, allowing me to build efficient, modern, and user-friendly web applications.
+
+Passionate about continuous learning, I stay up-to-date with the latest industry trends, writing clean, efficient code to deliver high-quality applications that meet client needs and drive innovative solutions.
 
 - 🌍 I'm based in Ho Chi Minh
-- 🌱 I'm currently expanding my knowledge in Flutter and building cross-platform mobile applications and Constantly working on personal projects to improve my skills and showcase my creativity using Flutter.
-- 🌱 I’m currently learning React
 - 🤝 I'm open to collaborating on any open source project
 - ✉️ You can contact me [buiquocbaodt@gmail.com](mailto:buiquocbaodt@gmail.com)
+
+### My Store
+- Android: https://shorturl.at/JwpnT
+- IOS: https://shorturl.at/ouRcy
 
