@@ -14,7 +14,7 @@ Passionate about continuous learning, I stay up-to-date with the latest industry
 - Android: https://shorturl.at/JwpnT
 - IOS: https://shorturl.at/ouRcy
 
-### My-Application
+### My Application
 - iMoney(Quản lý chi tiêu cá nhân) : https://imoney.rubystudio.tech/
 - TrackMyMoney(Quản lý thống kê chi tiêu với AI): https://trackmymoney.rubystudio.tech/
 
