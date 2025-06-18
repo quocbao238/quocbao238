@@ -7,14 +7,4 @@ Welcome to my GitHub profile!
 Passionate about continuous learning, I stay up-to-date with the latest industry trends, writing clean, efficient code to deliver high-quality applications that meet client needs and drive innovative solutions.
 
 - 🌍 I'm based in Ho Chi Minh
-- 🤝 I'm open to collaborating on any open source project
 - ✉️ You can contact me [buiquocbaodt@gmail.com](mailto:buiquocbaodt@gmail.com)
-
-### My Store
-- Android: https://shorturl.at/JwpnT
-- IOS: https://shorturl.at/ouRcy
-
-### My Application
-- iMoney(Quản lý chi tiêu cá nhân) : https://imoney.rubystudio.tech/
-- TrackMyMoney(Quản lý thống kê chi tiêu với AI): https://trackmymoney.rubystudio.tech/
-
